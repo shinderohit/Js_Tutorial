@@ -15,7 +15,7 @@ const gameName = new String("Rohit-Sh-com")
 // console.log(gameName.indexOf("h"));
 
 const newString = gameName.substring(4,7);
-// console.log(newString);
+// console.log(newStr ing);
 
 const anotherString = gameName.slice(-8, 4)
 // console.log(anotherString);
