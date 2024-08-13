@@ -5,7 +5,7 @@ const myHeros = ["shaktiman","naagraj"]
 const myArr2 = new Array(1,2,3,4)
 // console.log(myArr[3]);
 
-// Array methods
+//++++++++++++ Array methods +++++++++++
 
 // myArr.push(6)
 // myArr.push(7)
@@ -23,7 +23,7 @@ const newArr = myArr.join()
 // console.log(newArr);
 // console.log(typeof newArr);
 
-// Slice, Splice
+//+++++++++ Slice, Splice  ++++++++++
 
 console.log("A ", myArr);
 
