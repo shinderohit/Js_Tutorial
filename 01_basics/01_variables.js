@@ -4,9 +4,9 @@ var accountPassword = "12345"
 accountCity = "Mumbai"
 let accountState;
 
-// accountId = 23 not allowed
+// accountId = 23 not allowed or not changeed
 accountEmail ="rs@google.com"
-accountPassword = "21344"
+accountPassword = "22222"
 accountCity = "delhi"
 
 console.log(accountId);
